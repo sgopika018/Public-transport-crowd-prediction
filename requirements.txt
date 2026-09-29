@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+joblib>=1.3
+streamlit>=1.35
+plotly>=5.20
+# Optional preferred backend; the code falls back to sklearn MLP when TensorFlow is unavailable.
+# tensorflow-cpu>=2.16
